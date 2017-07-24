@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  17 JUL 2017 14:21
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  17 JUL 2017 08:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**EthanWrightResume.tex
-(./EthanWrightResume.tex
+**Untitled.tex
+(./Untitled.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -589,8 +589,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-(./EthanWrightResume.aux)
-\openout1 = `EthanWrightResume.aux'.
+(./Untitled.aux)
+\openout1 = `Untitled.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
@@ -608,8 +608,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 66.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 66.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 66.
@@ -681,49 +680,45 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * The requested feature is "LetterSpace=20.0".
 *************************************************
 
-Underfull \hbox (badness 1688) in paragraph at lines 101--101
+Underfull \hbox (badness 1688) in paragraph at lines 104--104
 []\EU1/lmr/m/n/10.95 Updating website with bootstrap, data APIs, and
  []
 
 
-Overfull \hbox (2.94719pt too wide) in paragraph at lines 144--144
+Overfull \hbox (2.94719pt too wide) in paragraph at lines 129--129
  []|\EU1/lmr/m/sc/10.95 University|
  []
 
 *************************************************
 * fontspec warning: "addfontfeatures-ignored"
 * 
-* \addfontfeature(s) ignored on line 152; it cannot be used with a font that
+* \addfontfeature(s) ignored on line 141; it cannot be used with a font that
 * wasn't selected by a fontspec command.
 * 
 * The current font is "\EU1/lmr/m/sc/10.95 ".
 * The requested feature is "LetterSpace=20.0".
 *************************************************
-LaTeX Font Info:    Try loading font information for U+mvs on input line 152.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 141.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/marvosym/umvs.fd) [1
 
 ]
-Overfull \hbox (11.4765pt too wide) in paragraph at lines 163--169
- [] 
- []
-
 *************************************************
 * fontspec warning: "addfontfeatures-ignored"
 * 
-* \addfontfeature(s) ignored on line 174; it cannot be used with a font that
+* \addfontfeature(s) ignored on line 163; it cannot be used with a font that
 * wasn't selected by a fontspec command.
 * 
 * The current font is "\EU1/lmr/m/sc/10.95 ".
 * The requested feature is "LetterSpace=20.0".
 *************************************************
-[2] (./EthanWrightResume.aux) ) 
+[2] (./Untitled.aux) ) 
 Here is how much of TeX's memory you used:
  16904 strings out of 493591
- 325837 string characters out of 6143546
- 414890 words of memory out of 5000000
+ 325756 string characters out of 6143546
+ 414898 words of memory out of 5000000
  20228 multiletter control sequences out of 15000+600000
  7594 words of font info for 42 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 58i,11n,51p,10357b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,11n,51p,10348b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on EthanWrightResume.pdf (2 pages).
+Output written on Untitled.pdf (2 pages).
